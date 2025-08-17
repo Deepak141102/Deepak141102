@@ -1,6 +1,6 @@
 # 🤗 Hey there! I'm Deepak
 
-👨‍💻 **Fullstack Web Developer @ Mae, Canada**  
+👨‍💻 **Fullstack Web Developer**  
 🚀 Turning ideas into sleek, functional, high-converting applications.  
 💡 Lifelong learner, code enthusiast, and problem solver.  
 ☕ Fun fact: I love discussing projects over coffee—virtual or real!
@@ -54,4 +54,5 @@
 
 🌌 “The code you write today shapes the universes of tomorrow.”  
 💬 Let’s collaborate, innovate, and push the boundaries of web wizardry.  
+
 
