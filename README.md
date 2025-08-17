@@ -35,7 +35,8 @@
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)]([[https://www.linkedin.com/](https://www.linkedin.com/in/deepak-sagar1/)](https://www.linkedin.com/in/deepak-sagar1/))  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/deepak-sagar1/)
+
 
 ---
 
@@ -54,5 +55,6 @@
 
 🌌 “The code you write today shapes the universes of tomorrow.”  
 💬 Let’s collaborate, innovate, and push the boundaries of web wizardry.  
+
 
 
